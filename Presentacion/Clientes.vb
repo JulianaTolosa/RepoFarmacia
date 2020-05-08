@@ -6,6 +6,7 @@
 
     Private Sub btnCerrarForm_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCerrarForm.Click
         Me.Close()
+        'jkjhjhhj
     End Sub
 
     
